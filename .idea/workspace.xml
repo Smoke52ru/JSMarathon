@@ -20,13 +20,16 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:homework-1" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3df6433d-9204-4352-9f5b-28c0d17eb750" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="homework-1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,6 +67,8 @@
       <workItem from="1633951330945" duration="2467000" />
       <workItem from="1634150667974" duration="593000" />
       <workItem from="1634230414173" duration="4340000" />
+      <workItem from="1634300981612" duration="443000" />
+      <workItem from="1634301448019" duration="3724000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1633953883844</created>
@@ -79,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634234611246</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="homework-1 fix">
+      <created>1634301239986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634301239986</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +108,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="homework-1" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -107,13 +119,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="homework-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework-1" />
+    <MESSAGE value="homework-1 fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework-1 fix" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1634301432007">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1634301432007" />
     <state x="180" y="174" key="FileChooserDialogImpl" timestamp="1633952826776">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -122,10 +140,26 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="274" y="331" key="Github.ShareDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1633953899488" />
-    <state x="584" y="164" key="Vcs.Push.Dialog.v2" timestamp="1634234687466">
+    <state x="438" y="191" key="MultipleFileMergeDialog" timestamp="1634301401947">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="584" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1634234687466" />
+    <state x="438" y="191" key="MultipleFileMergeDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1634301401947" />
+    <state x="92" y="92" width="1416" height="676" key="ShowDiffWithBranchDialog" timestamp="1634301432007">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="ShowDiffWithBranchDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1634301432007" />
+    <state x="584" y="164" key="Vcs.Push.Dialog.v2" timestamp="1634301478396">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="584" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1634301478396" />
+    <state x="409" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1634308233551">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="409" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1634308233551" />
+    <state x="580" y="142" key="git4idea.branch.GitSmartOperationDialog" timestamp="1634301174605">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="142" key="git4idea.branch.GitSmartOperationDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1634301174605" />
     <state x="463" y="180" key="search.everywhere.popup" timestamp="1634232423951">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
